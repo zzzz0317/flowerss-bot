@@ -2,7 +2,6 @@ package tgraph
 
 import (
 	"github.com/indes/flowerss-bot/internal/config"
-
 	"github.com/indes/telegraph-go"
 	"go.uber.org/zap"
 )
